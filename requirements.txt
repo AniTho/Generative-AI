@@ -8,3 +8,4 @@ wandb==0.19.7
 einops==0.8.1
 lightning==2.5.0.post0
 matplotlib==3.10.1
+accelerate==1.4.0
